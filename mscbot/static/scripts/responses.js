@@ -10,10 +10,10 @@ function getBotResponse(input) {
 
     // Simple responses
     if (input == "hello") {
-        return "Hello there!";
-    } else if (input == "goodbye") {
-        return "Talk to you later!";
+        return "Hello bupender jogi here!";
+    } else if (input == "bye") {
+        return "bhaag Bsdk";
     } else {
-        return "Try asking something else!";
+        return "your time's up go back and come later";
     }
 }
